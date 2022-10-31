@@ -1,2 +1,2 @@
-# Quizz
-This is my first project, a quiz !
+## Different python code
+You can find games like quizz or dice rolling simulator
